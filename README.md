@@ -1,2 +1,2 @@
-# ak-ll-notlar
+# notlar
 Pyqt ile yazdığımız akıllı notlarımız
